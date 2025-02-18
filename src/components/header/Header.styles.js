@@ -76,6 +76,7 @@ export const NavWrapper = styled.nav`
     height: 75px;
     border-radius: 12px;
     padding: 10px;
+    margin-right: 130px;
     border: 4px solid #1f1f1f;
 
     ${media.lg`

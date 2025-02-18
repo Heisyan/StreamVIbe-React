@@ -11,9 +11,9 @@ const StreamDevices = () => {
   return (
     <StreamDevicesWrapper className="section-py">
       <SectionTitle
-        title={"We Provide you streaming experience across various devices."}
+        title={"Kami memberikan pengalaman streaming di berbagai perangkat."}
         text={
-          "With StreamVibe, you can enjoy your favorite movies and TV shows anytime, anywhere. Our platform is designed to be compatiable with a wide range of devices, ensuring that you never miss a moment of entertainment."
+          "Dengan StreamVibe, Anda bisa menonton film dan serial TV favorit kapan pun dan di mana pun. Platform kami mendukung banyak perangkat, sehingga Anda selalu bisa menikmati hiburan tanpa batas."
         }
       />
       <Container>

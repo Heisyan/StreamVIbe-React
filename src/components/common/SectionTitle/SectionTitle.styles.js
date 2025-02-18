@@ -2,7 +2,8 @@ import styled from "styled-components";
 import { media } from "../../../styles/theme/theme";
 
 export const SectionTitleWrapper = styled.div`
-  margin-bottom: 40px;
+  margin-bottom: 40px;\
+  margin-top: 20px;
 
   ${media.lg`
     margin-bottom: 30px;

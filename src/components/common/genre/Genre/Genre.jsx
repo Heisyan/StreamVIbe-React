@@ -50,9 +50,9 @@ const Genre = () => {
   return (
     <GenreWrapper>
       <SectionTitle
-        title={"Explore our wide variety of categories"}
+        title={"Jelajahi berbagai kategori unggulan kami"}
         text={
-          "Whether you're looking for a comedy to make you laugh, a drama to make you think, or a documentary to learn something new."
+          "Nikmati komedi yang menghibur, drama yang memikat, atau dokumenter yang mengedukasi"
         }
       />
       <Container>

@@ -39,10 +39,10 @@ export const SubscriptionItemWrapper = styled.section`
         `}
 
         &-text{
-            font-size: 40px;
+            font-size: 30px;
 
             ${media.lg`
-                font-size: 24px;
+                font-size: 20px;
             `}
         }
     }

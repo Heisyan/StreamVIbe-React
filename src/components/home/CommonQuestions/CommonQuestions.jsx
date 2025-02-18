@@ -12,12 +12,12 @@ const CommonQuestions = () => {
   return (
     <CommonQWrapper className="section-py">
       <SectionTitle
-        title={"Frequently Asked Questions"}
+        title={"Pertanyaan yang Sering Diajukan"}
         text={
-          "Got questions? We've got answers! Check out our FAQ section to find answers to the most common questions about StreamVibe."
+          "Ada pertanyaan? Kami punya jawabannya! Lihat bagian FAQ kami untuk menemukan jawaban atas pertanyaan umum seputar StreamVibe."
         }
         rightContenType={"title-button"}
-      />
+        />
       <Container>
         <div className="common-q-content">
           <div className="common-q-list grid">

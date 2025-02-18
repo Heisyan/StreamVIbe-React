@@ -19,7 +19,7 @@ const SectionTitle = ({ title, text, rightContenType }) => {
           <div className="title-right">
             {rightContenType === "title-button" && (
               <BaseLinkPrimary>
-                <span className="btn-text">Ask a Question</span>
+                <span className="btn-text">Tanyakan Pertanyaan</span>
               </BaseLinkPrimary>
             )}
           </div>

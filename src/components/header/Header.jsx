@@ -82,7 +82,7 @@ const Header = () => {
               <img src={Icons.Close} alt="" />
             </button>
             <ul className="nav-list flex items-center justify-center bg-black06">
-              <li className="nav-item">
+              <li className="nav-item ">
                 <Link
                   onClick={handleNavLinkClick}
                   to={routeConstants.HOME}
@@ -104,7 +104,7 @@ const Header = () => {
                   Shows
                 </Link>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <Link
                   onClick={handleNavLinkClick}
                   to="/support"
@@ -125,7 +125,7 @@ const Header = () => {
                 >
                   Subscription
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </NavWrapper>
           <HeaderIconsWrapper className="flex items-center">

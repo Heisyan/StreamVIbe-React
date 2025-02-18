@@ -7,13 +7,13 @@ const FreeTrial = () => {
     <FreeTrialWrapper className="section-py">
       <Container>
         <div className="free-trial-content bg-black06 flex items-center justify-between flex-wrap">
-            <div>
-                <HeadingTitle>Start your free trial today!</HeadingTitle>
-                <Paragraph>
-                    This is a clear and concise call to action that encourages users to sign up for a free trial of StreamVibe.
-                </Paragraph>
-            </div>
-            <BaseLinkPrimary>Start a Free Trial</BaseLinkPrimary>
+          <div>
+            <HeadingTitle>Mulai uji coba gratis Anda hari ini!</HeadingTitle>
+            <Paragraph>
+              Ini adalah ajakan yang jelas dan ringkas yang mendorong pengguna untuk mendaftar uji coba gratis StreamVibe.
+            </Paragraph>
+          </div>
+          <BaseLinkPrimary>Mulai Uji Coba Gratis</BaseLinkPrimary>
         </div>
       </Container>
     </FreeTrialWrapper>

@@ -35,93 +35,93 @@ export const STREAM_DEVICES = [
     device_name: "Smartphone",
     icon: Icons.SmartphoneRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "StreamVibe telah dioptimalkan untuk ponsel Android dan iOS. Unduh aplikasi kami dari Google Play Store atau Apple App Store.",
   },
   {
     id: "stream_dev_2",
     device_name: "Tablet",
     icon: Icons.TabletRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "Dengan StreamVibe, tablet Anda menjadi pusat hiburan portabel yang siap menemani kapan saja.",
   },
   {
     id: "stream_dev_3",
     device_name: "Smart TV",
     icon: Icons.SmartTVRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "StreamVibe dioptimalkan untuk Smart TV, memberikan pengalaman menonton layar lebar yang memukau.",
   },
   {
     id: "stream_dev_4",
     device_name: "Laptops",
     icon: Icons.LaptopRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "StreamVibe hadir dengan dukungan penuh untuk laptop, memastikan kualitas streaming yang lancar dan jernih.",
   },
   {
     id: "stream_dev_5",
     device_name: "Gaming Console",
     icon: Icons.ConsoleRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "Dengan StreamVibe, gaming console Anda tidak hanya untuk bermain game, tetapi juga menjadi pusat hiburan lengkap.",
   },
   {
     id: "stream_dev_6",
     device_name: "VR Headsets ",
     icon: Icons.VRSetsRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "StreamVibe juga dioptimalkan untuk VR Headsets, memberikan pengalaman menonton yang imersif dan mendalam",
   },
 ];
 
 export const FAQS = [
   {
     id: "faq_1",
-    question: "What is StreamVibe?",
+    question: "Apa itu StreamVibe?",
     answer:
-      "StreamVibe is a streaming service that allows you to watch movies and shows on demand.",
+      "StreamVibe adalah layanan streaming yang memungkinkan Anda menonton film dan acara TV sesuai permintaan.",
   },
   {
     id: "faq_2",
-    question: "How much does StreamVibe cost?",
+    question: "Berapa biaya StreamVibe?",
     answer:
-      "StreamVibe is free of cost for first 1 month. Then you can take our yearly subscription which cost only 200$ per annum. There is super premium service that allow upto 5 different users costing only 359$.",
+      "StreamVibe gratis selama 1 bulan pertama. Setelah itu, Anda dapat mengambil langganan tahunan dengan biaya hanya $200 per tahun. Ada juga layanan super premium yang memungkinkan hingga 5 pengguna berbeda dengan biaya hanya $359.",
   },
   {
     id: "faq_3",
-    question: "What content is available on StreamVibe?",
+    question: "Konten apa yang tersedia di StreamVibe?",
     answer:
-      "StreamVibe is a streaming service where you can watch all genres of TV shows from bollywood to hollywood at the minium cost. Our massive collection of streaming services expected to meet your taste of shows",
+      "StreamVibe adalah layanan streaming di mana Anda dapat menonton semua genre acara TV, dari Bollywood hingga Hollywood, dengan biaya minimal. Koleksi besar layanan streaming kami diharapkan dapat memenuhi selera Anda akan acara TV.",
   },
   {
     id: "faq_4",
-    question: "How can I watch StreamVibe?",
+    question: "Bagaimana cara menonton StreamVibe?",
     answer:
-      "StreamVibe can be watched using all the devices from smartphones to the full HD TV or screen. Simply login with your StreamVibe ID & password & there you go you've the full fledge access of your streaming services.",
+      "StreamVibe dapat ditonton menggunakan semua perangkat, mulai dari smartphone hingga TV atau layar beresolusi Full HD. Cukup login dengan ID dan kata sandi StreamVibe Anda, dan Anda akan memiliki akses penuh ke layanan streaming kami.",
   },
   {
     id: "faq_5",
-    question: "How do I sign up for StreamVibe?",
+    question: "Bagaimana cara mendaftar di StreamVibe?",
     answer:
-      "StreamVibe is very easy in terms of signing up procedure. You can simply full in the forms of our contact us page and our customer care will contact within 3 business day.",
+      "StreamVibe sangat mudah dalam hal prosedur pendaftaran. Anda cukup mengisi formulir di halaman 'Hubungi Kami', dan tim layanan pelanggan kami akan menghubungi Anda dalam 3 hari kerja.",
   },
   {
     id: "faq_6",
-    question: "What is the StreamVibe free trial?",
+    question: "Apa itu uji coba gratis StreamVibe?",
     answer:
-      "StreamVibe free trial service is available for only 1 month. After that you can try our premium service as per your choice.",
+      "Layanan uji coba gratis StreamVibe tersedia hanya selama 1 bulan. Setelah itu, Anda dapat mencoba layanan premium sesuai pilihan Anda.",
   },
   {
     id: "faq_7",
-    question: "How do I contact StreamVibe customer support?",
+    question: "Bagaimana cara menghubungi dukungan pelanggan StreamVibe?",
     answer:
-      "StreamVibe provides you 24/7 customer care & services. You can email us in the stream@customer.gmail.com or sv@support.gmail.com. You can chat online using the following link: www.streamvibe.com/inquiry/akdfQEF4",
+      "StreamVibe menyediakan layanan pelanggan 24/7. Anda dapat mengirim email ke stream@customer.gmail.com atau sv@support.gmail.com. Anda juga dapat mengobrol online melalui tautan berikut: www.streamvibe.com/inquiry/akdfQEF4",
   },
   {
     id: "faq_8",
-    question: "What are the StreamVibe payment methods?",
+    question: "Apa metode pembayaran yang diterima StreamVibe?",
     answer:
-      "StreamVibe is a global streaming service so, we have the avilability of different types of payment method like master card, visa card, paypal, american express & other additional card payments which is fully explained in our about us page of this site.",
+      "StreamVibe adalah layanan streaming global, sehingga kami menyediakan berbagai metode pembayaran seperti MasterCard, Visa, PayPal, American Express, dan metode pembayaran kartu lainnya yang dijelaskan lengkap di halaman 'Tentang Kami' di situs ini.",
   },
 ];
 
@@ -130,7 +130,7 @@ export const SUBSCRIPTIONS = [
     id: "subs_1",
     plan: "Basic Plan",
     description:
-      "Enjoy an extensive library of movies and shows, featuring a range of content, including recently released titles.",
+      "Nikmati perpustakaan film dan acara TV yang luas, mencakup berbagai konten, termasuk judul yang baru dirilis.",
     monthly_price: 9.99,
     yearly_price: 89.99,
   },
@@ -138,7 +138,7 @@ export const SUBSCRIPTIONS = [
     id: "subs_2",
     plan: "Standard Plan",
     description:
-      "Access to a wider selection of movies and shows, including most new releases and exclusive content",
+      "Akses ke pilihan film dan acara TV yang lebih luas, termasuk sebagian besar rilis baru dan konten eksklusif.",
     monthly_price: 12.99,
     yearly_price: 105.99,
   },
@@ -146,7 +146,7 @@ export const SUBSCRIPTIONS = [
     id: "subs_3",
     plan: "Premium Plan",
     description:
-      "Access to a widest selection of movies and shows, including all new releases and Offline Viewing",
+      "Akses ke pilihan film dan acara TV terluas, termasuk semua rilis baru dan fitur Penontonan Offline.",
     monthly_price: 14.99,
     yearly_price: 130.99,
   },
@@ -250,7 +250,7 @@ export const FOOTER_LINKS = [
   },
   {
     id: "connect_links",
-    link_title: "Connect With Us",
+    link_title: "Hubungi Kami",
     link_type: "icon",
     links: [
       {

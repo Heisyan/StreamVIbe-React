@@ -6,7 +6,7 @@ export const BannerWrapper = styled.section`
     .banner-img{
         background: url(${Images.HomeBanner}) center/cover no-repeat fixed;
         min-height: 68vh;
-
+        
         ${media.sm`
             min-height: 50vh;
         `}
@@ -31,7 +31,8 @@ export const BannerWrapper = styled.section`
 
     .banner-content{
         max-width: 1096px;
-        padding-top: 20px;
+        margin-top: 100px;
+        padding: 10px;
         padding-bottom: 40px;
 
         ${media.sm`
@@ -41,6 +42,7 @@ export const BannerWrapper = styled.section`
 
     .banner-text{
         margin-bottom: 50px;
+        
 
         ${media.lg`
             margin-bottom: 30px;
